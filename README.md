@@ -10,9 +10,9 @@ This project demonstrates sentiment analysis using BERT (Bidirectional Encoder R
 
 3. **Modeling**: The program creates a custom sentiment analysis model based on BERT. The model utilizes binary classification to predict whether the sentiment is positive or negative.
 
-4. **Training**: The model is trained using the IMDb dataset. The training process includes optimization using the Adam optimizer and a learning rate schedule.
+4. **Training**: The model is trained using the IMDb dataset. The training process includes optimization using a customized optimizer and a learning rate schedule.
 
-5. **Testing**: After training, the model can be tested on new movie reviews. The sentiment of the provided text will be predicted as either positive or negative.
+5. **Testing**: After training, the model was tested on new movie reviews. The sentiment of the provided text was predicted as either positive or negative.
 
 ## Note
 
